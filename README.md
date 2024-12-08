@@ -15,6 +15,11 @@
   <li>	A guided tour of the National Museum of Qatar, revealing fascinating insights into the country’s history and culture.</li>
   <li>	Observing visitor interactions with multimedia displays to understand engagement and reactions.</li>
 </ul>
+<p><b>Visitor Engagement and Feedback Collection:</b></p>
+<ul>
+  <li>	Conducting surveys to gather opinions on multimedia used in exhibits.</li>
+  <li>	Addressing challenges like survey fatigue by using conversational techniques to engage visitors effectively.</li>
+</ul>
 
 </body>
 </html>
