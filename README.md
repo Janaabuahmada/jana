@@ -2,7 +2,7 @@
 <html>
 <body>
   <h1  align="center">My Internship in QM </h1>
-  <p align="center" > <a href="#W1">First Week</a>     <a href="#W2">Second Week</a>     <a href="#W3">Third Week</a>     <a href="#W4">Fourth Week</a> </p>
+  <p align="center" > <a href="#W1">First Week</a>     <a href="#W2">Online Collection Text Analysis</a>     <a href="#W3">Third Week</a>     <a href="#W4">Fourth Week</a> </p>
   
 
 <p align="center">This report summarizes my internship experience at Qatar Museums, which has started in 27.Oct 2024. I am currently in the digital experience department. The purpose of this internship is to gain practical experience and apply theoretical knowledge acquired from studying Applied Mathematics and Statistics throughout my university years. I will go into some details by talking about my journey.</p>
@@ -30,7 +30,7 @@
   <li>	Creating a website using GitHub Pages, overcoming technical challenges with support from YouTube tutorials, AI tools, and a helpful colleague.</li>
 </ul>
 
-<h1 align="Left" id="W2"> Second Week </h1>
+<h1 align="Left" id="W2"> Online Collection Text Analysis </h1>
 <p>During my second week at my Qatar Museums internship, I was assigned the task of counting and identifying unique words in an Excel sheet containing all the text from the museum's online collection website. As shown in the picture bellow, the highlighted words are repeatedin different locations in both languages Arabic and English.</p>
 <p align="center" ><img align="Center" alt="Processed Image" height="200" width="auto" src="https://i.ibb.co/M9Wx8JS/Screenshot-2024-11-12-085434.png"  ><img  align="Center" alt="Processed Image" height="200" width="auto" src="https://i.ibb.co/7N5KMJN/Screenshot-2024-11-12-093819.png"></p>
 
