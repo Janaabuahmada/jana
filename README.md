@@ -30,11 +30,22 @@
   <li>	Creating a website using GitHub Pages, overcoming technical challenges with support from YouTube tutorials, AI tools, and a helpful colleague.</li>
 </ul>
 
-<h1 align="Left" id="W2"> Online Collection Text Analysis </h1>
+<h1 align="Left" id="W2"> Online Collection's Text Analysis </h1>
 <p>During my second week at my Qatar Museums internship, I was assigned the task of counting and identifying unique words in an Excel sheet containing all the text from the museum's online collection website. As shown in the picture bellow, the highlighted words are repeatedin different locations in both languages Arabic and English.</p>
 <p align="center" ><img align="Center" alt="Processed Image" height="200" width="auto" src="https://i.ibb.co/M9Wx8JS/Screenshot-2024-11-12-085434.png"  ><img  align="Center" alt="Processed Image" height="200" width="auto" src="https://i.ibb.co/7N5KMJN/Screenshot-2024-11-12-093819.png"></p>
 
-<p><img align="left" height="300" width="auto" src="https://i.ibb.co/ZKghqH3/Screenshot-2024-11-12-094657.png" ><img align="right" height="300" width="auto" src="https://i.ibb.co/3WFwGQr/Screenshot-2024-11-12-094911.png" >  I  used  Visual  Studio  to  streamline  the  process. I  separated  each  word,  removed  capitalization, and  filtered  out  numbers,  enabling  me  to  identify  and  remove  duplicates  and  create  a  clean  list  of  unique  terms. Through  this  analysis,  I  discovered  that  almost 90%  of  the  words  were  recurrent,  suggesting  that  with  techniques  like  named  entity  recognition  (NER),  it  would  be  much  easier  for  the  translation  team  to  focus on  unique  or  context-specific  terms.    Later,  I joined  a  meeting  with the digital  experience  team  to  present  my  findings,  where  I  explained  the  technical  aspects  of  my  process  and  demonstrated  how  this  analysis  could  enhance  the  museum’s  online  content.    This  experience  gave  me  valuable  feedback  and  further  insight  into  how digital  transformation  can  improve  user  engagement  with  museum  collections.  I  am  now  curious  to  learn  how  I  can  use  NER  for  both  English  and  Arabic.</p>
+<p><img align="left" height="300" width="auto" src="https://i.ibb.co/ZKghqH3/Screenshot-2024-11-12-094657.png" ><img align="right" height="300" width="auto" src="https://i.ibb.co/3WFwGQr/Screenshot-2024-11-12-094911.png" >
+  
+  I    used  Visual  Studio  to  streamline  the  process. I  separated  each  word,  removed  capitalization, and  filtered  out  numbers,  enabling  me  to  identify  and  remove  duplicates  and  create  a  clean  list  of  unique  terms. Through  this  analysis,  I  discovered  that  almost 90%  of  the  words  were  recurrent,  suggesting  that  with  techniques  like  named  entity  recognition  (NER),  it  would  be  much  easier  for  the  translation  team  to  focus on  unique  or  context-specific  terms.    Later,  I joined  a  meeting  with the digital  experience  team  to  present  my  findings,  where  I  explained  the  technical  aspects  of  my  process  and  demonstrated  how  this  analysis  could  enhance  the  museum’s  online  content.    This  experience  gave  me  valuable  feedback  and  further  insight  into  how digital  transformation  can  improve  user  engagement  with  museum  collections.  I  am  now  curious  to  learn  how  I  can  use  NER  for  both  English  and  Arabic.</p>
+
+<h1 align="left" >Text Mining Journey </h1>
+<p>This week at my internship with Qatar Museums has been an exciting dive into the world of text mining. My supervisor, Christophe, handed me a book called Text Mining with R: A Tidy Approach, and I've been really into it ever since. Text mining is incredibly important for our digital transformation team because it helps us make sense of large volumes of unstructured text data by extracting meaningful patterns and insights. The process involves several key steps:</p>
+<ul>
+ <li> Collecting text data</li>
+ <li>	Cleaning and preprocessing it</li>
+ <li>	Transforming it into a structured format</li>
+ <li>	Applying analytical techniques to draw conclusions</li>
+</ul>
 
 </body>
 </html>
