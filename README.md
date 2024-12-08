@@ -11,6 +11,10 @@
 <p>The first week at Qatar Museums was an enriching and immersive experience, marked by:</p>
 
 <p><b>Exploration of Qatar’s Cultural Heritage:</b></p>
+<ul>
+  <li>	A guided tour of the National Museum of Qatar, revealing fascinating insights into the country’s history and culture.</li>
+  <li>	Observing visitor interactions with multimedia displays to understand engagement and reactions.</li>
+</ul>
 
 </body>
 </html>
