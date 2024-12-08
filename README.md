@@ -1,6 +1,6 @@
-<img width=6%  align="right" src="https://i.ibb.co/kJ99gXz/qm-car-logo-0-0-1.png" >
 
-<img src="https://i.ibb.co/kJ99gXz/qm-car-logo-0-0-1.png" height="60" alt="GitHub logo" />
+
+<img src="https://i.ibb.co/kJ99gXz/qm-car-logo-0-0-1.png" height="60" align="right" alt="GitHub logo" />
 
 <h1 align="center"> My Internship in QM </h1> 
 
