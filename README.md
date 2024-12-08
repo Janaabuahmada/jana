@@ -20,6 +20,16 @@
   <li>	Conducting surveys to gather opinions on multimedia used in exhibits.</li>
   <li>	Addressing challenges like survey fatigue by using conversational techniques to engage visitors effectively.</li>
 </ul>
+<p><b>Data Analysis and Visualization:</b></p>
+<ul>
+  <li>	Analyzing survey data from NMoQ and TOCW using Excel and Power BI.</li>
+  <li>	Focusing on multimedia-related questions to derive actionable insights.</li>
+</ul>
+<p><b>Website Development:</b></p>
+<ul>
+  <li>	Creating a website using GitHub Pages, overcoming technical challenges with support from YouTube tutorials, AI tools, and a helpful colleague.</li>
+</ul>
+
 
 </body>
 </html>
