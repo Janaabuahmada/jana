@@ -2,7 +2,7 @@
 <html>
 <body>
   <h1  align="center">My Internship in QM </h1>
-  <p align="center" > <a href="#W1">First Week</a>     <a href="#W2">Online Collection Text Analysis</a>     <a href="#W3">Third Week</a>     <a href="#W4">Fourth Week</a> </p>
+  <p align="center" > <a href="#W1">First Week</a>     <a href="#W2">Online Collection Text Analysis</a>     <a href="#W3">Text Mining Journey</a>     <a href="#W4">Fourth Week</a> </p>
   
 
 <p align="center">This report summarizes my internship experience at Qatar Museums, which has started in 27.Oct 2024. I am currently in the digital experience department. The purpose of this internship is to gain practical experience and apply theoretical knowledge acquired from studying Applied Mathematics and Statistics throughout my university years. I will go into some details by talking about my journey.</p>
@@ -38,7 +38,7 @@
   
   I    used  Visual  Studio  to  streamline  the  process. I  separated  each  word,  removed  capitalization, and  filtered  out  numbers,  enabling  me  to  identify  and  remove  duplicates  and  create  a  clean  list  of  unique  terms. Through  this  analysis,  I  discovered  that  almost 90%  of  the  words  were  recurrent,  suggesting  that  with  techniques  like  named  entity  recognition  (NER),  it  would  be  much  easier  for  the  translation  team  to  focus on  unique  or  context-specific  terms.    Later,  I joined  a  meeting  with the digital  experience  team  to  present  my  findings,  where  I  explained  the  technical  aspects  of  my  process  and  demonstrated  how  this  analysis  could  enhance  the  museum’s  online  content.    This  experience  gave  me  valuable  feedback  and  further  insight  into  how digital  transformation  can  improve  user  engagement  with  museum  collections.  I  am  now  curious  to  learn  how  I  can  use  NER  for  both  English  and  Arabic.</p>
 
-<h1 align="left" >Text Mining Journey </h1>
+<h1 align="left" id="W1" >Text Mining Journey </h1>
 <p>This week at my internship with Qatar Museums has been an exciting dive into the world of text mining. My supervisor, Christophe, handed me a book called Text Mining with R: A Tidy Approach, and I've been really into it ever since. Text mining is incredibly important for our digital transformation team because it helps us make sense of large volumes of unstructured text data by extracting meaningful patterns and insights. The process involves several key steps:</p>
 <ul>
  <li> Collecting text data</li>
