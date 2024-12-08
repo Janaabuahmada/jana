@@ -9,7 +9,7 @@
 
 <p align="center">This report summarizes my internship experience at Qatar Museums, which has started in 27.Oct 2024. I am currently in the digital experience department. The purpose of this internship is to gain practical experience and apply theoretical knowledge acquired from studying Applied Mathematics and Statistics throughout my university years. I will go into some details by talking about my journey.</p>
   
-<h1  align="Left" id="W1">First Week</h1>
+<h1  align="Left" id="W1">&#128150;First Week</h1>
 <p>The first week at Qatar Museums was an enriching and immersive experience, marked by:</p>
 
 <p><b>Exploration of Qatar’s Cultural Heritage:</b></p>
@@ -32,7 +32,7 @@
   <li>	Creating a website using GitHub Pages, overcoming technical challenges with support from YouTube tutorials, AI tools, and a helpful colleague.</li>
 </ul>
 
-<h1 align="Left" id="W2"> Online Collection's Text Analysis </h1>
+<h1 align="Left" id="W2">&#128187;Online Collection's Text Analysis </h1>
 <p>During my second week at my Qatar Museums internship, I was assigned the task of counting and identifying unique words in an Excel sheet containing all the text from the museum's online collection website. As shown in the picture bellow, the highlighted words are repeatedin different locations in both languages Arabic and English.</p>
 <p align="center" ><img align="Center" alt="Processed Image" height="200" width="auto" src="https://i.ibb.co/M9Wx8JS/Screenshot-2024-11-12-085434.png"  ><img  align="Center" alt="Processed Image" height="200" width="auto" src="https://i.ibb.co/7N5KMJN/Screenshot-2024-11-12-093819.png"></p>
 
@@ -40,7 +40,7 @@
   
   I    used  Visual  Studio  to  streamline  the  process. I  separated  each  word,  removed  capitalization, and  filtered  out  numbers,  enabling  me  to  identify  and  remove  duplicates  and  create  a  clean  list  of  unique  terms. Through  this  analysis,  I  discovered  that  almost 90%  of  the  words  were  recurrent,  suggesting  that  with  techniques  like  named  entity  recognition  (NER),  it  would  be  much  easier  for  the  translation  team  to  focus on  unique  or  context-specific  terms.    Later,  I joined  a  meeting  with the digital  experience  team  to  present  my  findings,  where  I  explained  the  technical  aspects  of  my  process  and  demonstrated  how  this  analysis  could  enhance  the  museum’s  online  content.    This  experience  gave  me  valuable  feedback  and  further  insight  into  how digital  transformation  can  improve  user  engagement  with  museum  collections.  I  am  now  curious  to  learn  how  I  can  use  NER  for  both  English  and  Arabic.</p>
 
-<h1 align="left" id="W3" >Text Mining Journey </h1>
+<h1 align="left" id="W3" >&#128203;Text Mining Journey </h1>
 <p>This week at my internship with Qatar Museums has been an exciting dive into the world of text mining. My supervisor, Christophe, handed me a book called Text Mining with R: A Tidy Approach, and I've been really into it ever since. Text mining is incredibly important for our digital transformation team because it helps us make sense of large volumes of unstructured text data by extracting meaningful patterns and insights. The process involves several key steps:</p>
 <ul>
  <li> Collecting text data</li>
@@ -66,14 +66,14 @@ Additionally, I learned some techniques to clean and prepare the text data using
   
 This has been my first experience learning about machine learning methods, adding another layer of excitement to my internship experience.
 
-<h1 align="left" id="W4">A Visit To Mathaf:A Wider Lens, A New Gérôme</h1>
+<h1 align="left" id="W4">&#128253;A Visit To Mathaf:A Wider Lens, A New Gérôme</h1>
 
 I joined the digital experience team on a visit to the Mathaf Museum for the Gérôme exhibition. The exhibit offered an impressive array of paintings and drawings by Gérôme. The exhibition presented Gérôme's life and work in a loosely chronological order. It started with his biography and influence, moved on to his artistic style and creativity, and concluded with the political discourse surrounding his work in the 20th century. The interactive displays and guided tour provided deep insights, allowing us to appreciate Gérôme's art from both historical and modern perspectives.
 
 We went inside as guests to test the audio guide from the perspective of visitors. The audio guide was incredibly helpful, enhancing our understanding and enjoyment of the exhibition by providing additional context and details about each piece. However, I encountered an issue with the Wi-Fi, which was weak inside the gallery. This affected the audio guide’s performance and could be an area for improvement. On the positive side, I appreciated that the audio continued to play even when I opened other apps on my phone, ensuring a seamless experience. Overall, this visit was both inspiring and informative, offering valuable insights that will inform our digital engagement projects.
 </p>
 
-<h1 align="left" id="W5">Ed Rodley Presentation: </h1>
+<h1 align="left" id="W5">&#128250;Ed Rodley Presentation: </h1>
 <p>It was nice to meet Ed Rodley and attend his presentation on museum engagement. He explained the four avenues of engaging visitors: sensory immersion, emotional evocation, narrative transportation, and gameful participation. I learned how museum design considers helping people connect with their emotions while being careful not to manipulate them into feeling a certain way. This gave me a new understanding of the thoughtfulness behind creating visitor experiences.</p>
 
 
