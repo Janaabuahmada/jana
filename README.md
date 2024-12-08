@@ -2,7 +2,7 @@
 <html>
 <body>
   <h1  align="center">My Internship in QM </h1>
-  <p align="center" > <a href="#W1">First Week</a>     <a href="#W2">Online Collection Text Analysis</a>     <a href="#W3">Text Mining Journey</a>     <a href="#W4">A Visit To Mathaf:A Wider Lens, A New Gérôme</a> </p>
+  <p align="center" > <a href="#W1">First Week</a>     <a href="#W2">Online Collection Text Analysis</a>     <a href="#W3">Text Mining Journey</a>     <a href="#W4">A Visit To Mathaf:A Wider Lens, A New Gérôme</a> <a href="#W5">Ed Rodley Presentation</a></p>
   
 
 <p align="center">This report summarizes my internship experience at Qatar Museums, which has started in 27.Oct 2024. I am currently in the digital experience department. The purpose of this internship is to gain practical experience and apply theoretical knowledge acquired from studying Applied Mathematics and Statistics throughout my university years. I will go into some details by talking about my journey.</p>
@@ -71,7 +71,7 @@ I joined the digital experience team on a visit to the Mathaf Museum for the Gé
 We went inside as guests to test the audio guide from the perspective of visitors. The audio guide was incredibly helpful, enhancing our understanding and enjoyment of the exhibition by providing additional context and details about each piece. However, I encountered an issue with the Wi-Fi, which was weak inside the gallery. This affected the audio guide’s performance and could be an area for improvement. On the positive side, I appreciated that the audio continued to play even when I opened other apps on my phone, ensuring a seamless experience. Overall, this visit was both inspiring and informative, offering valuable insights that will inform our digital engagement projects.
 </p>
 
-<h1 align="left" id="W5">Ed Rodley Presentation </h1>
+<h1 align="left" id="W5">Ed Rodley Presentation: </h1>
 <p>It was nice to meet Ed Rodley and attend his presentation on museum engagement. He explained the four avenues of engaging visitors: sensory immersion, emotional evocation, narrative transportation, and gameful participation. I learned how museum design considers helping people connect with their emotions while being careful not to manipulate them into feeling a certain way. This gave me a new understanding of the thoughtfulness behind creating visitor experiences.</p>
 
 
