@@ -2,7 +2,7 @@
 <html>
 <body>
   <h1  align="center">My Internship in QM </h1>
-  <p align="center" > <a href="#W1">First Week</a>     <a href="#W2">Online Collection Text Analysis</a>     <a href="#W3">Text Mining Journey</a>     <a href="#W4">Fourth Week</a> </p>
+  <p align="center" > <a href="#W1">First Week</a>     <a href="#W2">Online Collection Text Analysis</a>     <a href="#W3">Text Mining Journey</a>     <a href="#W4">A Visit To Mathaf:A Wider Lens, A New Gérôme</a> </p>
   
 
 <p align="center">This report summarizes my internship experience at Qatar Museums, which has started in 27.Oct 2024. I am currently in the digital experience department. The purpose of this internship is to gain practical experience and apply theoretical knowledge acquired from studying Applied Mathematics and Statistics throughout my university years. I will go into some details by talking about my journey.</p>
@@ -64,14 +64,14 @@ Additionally, I learned some techniques to clean and prepare the text data using
   
 This has been my first experience learning about machine learning methods, adding another layer of excitement to my internship experience.
 
-<b>A Visit To Mathaf:A Wider Lens, A New Gérôme</b>
+<h1 align="left" id="W4">A Visit To Mathaf:A Wider Lens, A New Gérôme</h1>
 
 I joined the digital experience team on a visit to the Mathaf Museum for the Gérôme exhibition. The exhibit offered an impressive array of paintings and drawings by Gérôme. The exhibition presented Gérôme's life and work in a loosely chronological order. It started with his biography and influence, moved on to his artistic style and creativity, and concluded with the political discourse surrounding his work in the 20th century. The interactive displays and guided tour provided deep insights, allowing us to appreciate Gérôme's art from both historical and modern perspectives.
 
 We went inside as guests to test the audio guide from the perspective of visitors. The audio guide was incredibly helpful, enhancing our understanding and enjoyment of the exhibition by providing additional context and details about each piece. However, I encountered an issue with the Wi-Fi, which was weak inside the gallery. This affected the audio guide’s performance and could be an area for improvement. On the positive side, I appreciated that the audio continued to play even when I opened other apps on my phone, ensuring a seamless experience. Overall, this visit was both inspiring and informative, offering valuable insights that will inform our digital engagement projects.
 </p>
 
-<h1 align="left" id="W4"> Fourth Week </h1>
+<h1 align="left" id="W5">Ed Rodley Presentation </h1>
 
 
 
