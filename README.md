@@ -72,8 +72,7 @@ We went inside as guests to test the audio guide from the perspective of visitor
 </p>
 
 <h1 align="left" id="W5">Ed Rodley Presentation </h1>
-
-
+<p>It was nice to meet Ed Rodley and attend his presentation on museum engagement. He explained the four avenues of engaging visitors: sensory immersion, emotional evocation, narrative transportation, and gameful participation. I learned how museum design considers helping people connect with their emotions while being careful not to manipulate them into feeling a certain way. This gave me a new understanding of the thoughtfulness behind creating visitor experiences.</p>
 
 
 
