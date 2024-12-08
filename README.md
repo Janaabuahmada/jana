@@ -10,8 +10,7 @@
 <h1  align="Left" id="W1">First Week</h1>
 <p>The first week at Qatar Museums was an enriching and immersive experience, marked by:</p>
 
-
-
+<p><b>Exploration of Qatar’s Cultural Heritage:</b></p>
 
 </body>
 </html>
