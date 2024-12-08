@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/kJ99gXz/qm-car-logo-0-0-1.png" align="right" alt="Processed Image" height="50" width="auto"  >
 <html>
 <body>
-  <h1  align="center">My Internship in QM </h1>
+  <h1  align="center">&#127826;My Internship in QM&#127826; </h1>
 
 
 <p align="center" > <a href="#W1">&#128150; First Week</a>     <a href="#W2">&#128187;Online Collection Text Analysis</a>     <a href="#W3">&#128203;Text Mining Journey</a>     <a href="#W4">&#128253;A Visit To Mathaf:A Wider Lens, A New Gérôme</a> <a href="#W5">&#128250;Ed Rodley Presentation</a></p>
