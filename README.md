@@ -70,6 +70,14 @@ I joined the digital experience team on a visit to the Mathaf Museum for the Gé
 
 We went inside as guests to test the audio guide from the perspective of visitors. The audio guide was incredibly helpful, enhancing our understanding and enjoyment of the exhibition by providing additional context and details about each piece. However, I encountered an issue with the Wi-Fi, which was weak inside the gallery. This affected the audio guide’s performance and could be an area for improvement. On the positive side, I appreciated that the audio continued to play even when I opened other apps on my phone, ensuring a seamless experience. Overall, this visit was both inspiring and informative, offering valuable insights that will inform our digital engagement projects.
 </p>
+
+<h1 align="left" id="W4"> Fourth Week </h1>
+
+
+
+
+
+
 </body>
 </html>
 
