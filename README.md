@@ -30,6 +30,10 @@
   <li>	Creating a website using GitHub Pages, overcoming technical challenges with support from YouTube tutorials, AI tools, and a helpful colleague.</li>
 </ul>
 
+<h1 align="Left" id="W2"> Second Week </h1>
+<p>During my second week at my Qatar Museums internship, I was assigned the task of counting and identifying unique words in an Excel sheet containing all the text from the museum's online collection website. As shown in the picture bellow, the highlighted words are repeatedin different locations in both languages Arabic and English.</p>
+
+
 
 </body>
 </html>
