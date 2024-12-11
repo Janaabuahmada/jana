@@ -89,8 +89,8 @@ Challenges faced:
 <li>I was unable to run machine learning functions in R on my laptop due to resource limitations.</li>
 <li>Preparing and cleaning the data took longer than expected.</li> </p>
 
-
-
+<h1 align="left" id="W7">&#128188;ICOM: </h1>
+<p>Attending the ICOM (International Council of Museums) conference at Qatar's Museum of Art was a valuable experience, offering the chance to engage with global museum professionals and learn about the latest trends and innovations. I attended sessions on digital transformation and explored new museum practices, which were insightful. However, I was disappointed by some of the presentations, as their titles were misleading and led me to expect more in-depth discussions. Instead, the content often didn’t align with the expectations set by the titles, which was a letdown. Despite this, I still gained valuable knowledge and made meaningful connections with experts in the field.</p>
 
 
 
