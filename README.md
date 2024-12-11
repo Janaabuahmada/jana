@@ -86,7 +86,7 @@ We went inside as guests to test the audio guide from the perspective of visitor
 Challenges faced:
 <ul>
 <li>The data showed no clear trends or seasonality, requiring me to explore different machine learning models.</li>
-<li>Running machine learning functions in R on my laptop was resource-intensive.</li>
+<li>I was unable to run machine learning functions in R on my laptop due to resource limitations.</li>
 <li>Preparing and cleaning the data took longer than expected.</li> </p>
 
 
