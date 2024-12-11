@@ -76,7 +76,7 @@ We went inside as guests to test the audio guide from the perspective of visitor
 <h1 align="left" id="W5">&#128250;Ed Rodley Presentation: </h1>
 <p>It was nice to meet Ed Rodley and attend his presentation on museum engagement. He explained the four avenues of engaging visitors: sensory immersion, emotional evocation, narrative transportation, and gameful participation. I learned how museum design considers helping people connect with their emotions while being careful not to manipulate them into feeling a certain way. This gave me a new understanding of the thoughtfulness behind creating visitor experiences.</p>
 
-<h1 align="left" id="W6">&#128250;Visitors Analysis: </h1>
+<h1 align="left" id="W6">&#128694;Visitors Analysis: </h1>
 <p> Exploring Bristol’s visitor data as time series data aimed to:
 <ul>
 <li>Analyze daily trends, including seasonal changes and weekday vs. weekend patterns.	</li>
