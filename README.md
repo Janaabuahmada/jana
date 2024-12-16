@@ -80,10 +80,10 @@ I learned some techniques to clean and prepare the text data using R. However, I
 <p>I joined the digital experience team on a visit to Mathaf Museum's Gérôme exhibition, which displayed his paintings and drawings in a chronological order, covering his biography, artistic style, and political impact. We tested the audio guide as guests, which provided useful context for each piece and continued working when using other apps. However, weak Wi-Fi in the gallery affected its performance. The visit offered important insights for our digital engagement projects.
 </p>
 
-<h1 align="left" id="W5">&#128250;Ed Rodley Presentation: </h1>
+<h1 align="left" id="W5">&#128250;Ed Rodley Presentation </h1>
 <p>It was nice to meet Ed Rodley and attend his presentation on museum engagement. He explained the four avenues of engaging visitors: sensory immersion, emotional evocation, narrative transportation, and gameful participation. I learned how museum design considers helping people connect with their emotions while being careful not to manipulate them into feeling a certain way. This gave me a new understanding of the thoughtfulness behind creating visitor experiences.</p>
 
-<h1 align="left" id="W6">&#128694;Visitors Analysis: </h1>
+<h1 align="left" id="W6">&#128694;Visitors Analysis </h1>
 <p> Exploring Bristol’s visitor data as time series data aimed to:
 <ul>
 <li>Analyze daily trends, including seasonal changes and weekday vs. weekend patterns.	</li>
@@ -96,10 +96,10 @@ Challenges faced:
 <li>I was unable to run machine learning functions in R on my laptop due to resource limitations.</li>
 <li>Preparing and cleaning the data took longer than expected.</li> 
 </ul></p>
-<h1 align="left" id="W7">&#128188;ICOM:</h1>
+<h1 align="left" id="W7">&#128188;ICOM</h1>
 <p>Attending the ICOM (International Council of Museums) conference at Qatar's Museum of Art was a valuable experience, offering the chance to engage with global museum professionals and learn about the latest trends and innovations. I attended sessions on digital transformation and explored new museum practices, which were insightful. However, I was disappointed by some of the presentations, as their titles were misleading and led me to expect more in-depth discussions. Instead, the content often didn’t align with the expectations set by the titles, which was a letdown. Despite this, I still gained valuable knowledge and made meaningful connections with experts in the field.</p>
 
-<h1 align="left" id="W7">&#128376;Web Scraping:</h1>
+<h1 align="left" id="W7">&#128376;Web Scraping</h1>
 <p> In my last week I learned more about web scraping using R, which I believe will be a game-changer for Sadia's work on translation memory for the museum's online collection. Web scraping allows us to automate the collection of large amounts of data from various online sources, eliminating the need for tedious manual extraction. Since translation memory relies on accurate and consistent data inputs, this method ensures that we can gather the necessary text efficiently and systematically. Additionally, it saves time, reduces errors, and frees up resources to focus on refining the translation process, making the overall workflow much more productive. </p>
 
 
