@@ -4,7 +4,7 @@
   <h1  align="center">My Internship in QM </h1>
 
 
-<p align="center" > <a href="#W1">&#128150; First Week</a>     <a href="#W2">&#128187;Online Collection Text Analysis</a>     <a href="#W3">&#128203;Text Mining Journey</a>     <a href="#W4">&#128253;A Visit To Mathaf:A Wider Lens, A New Gérôme</a> <a href="#W5">&#128250;Ed Rodley Presentation</a>  <a href="#W6">&#128694;Visitors Analysis</a> <a href="#W7">&#128188;ICOM</a></p>
+<p align="center" > <a href="#W1">&#128150; First Week</a>     <a href="#W2">&#128187;Online Collection Text Analysis</a>     <a href="#W3">&#128203;Text Mining Journey</a>     <a href="#W4">&#128253;A Visit To Mathaf:A Wider Lens, A New Gérôme</a> <a href="#W5">&#128250;Ed Rodley Presentation</a>  <a href="#W6">&#128694;Visitors Analysis</a> <a href="#W7">&#128188;ICOM</a> <a href="#W6">&#128376;Web Scraping</a></p> 
   
 
 <p align="center">This report summarizes my internship experience at Qatar Museums, which has started in 27.Oct 2024. I am currently in the digital experience department. The purpose of this internship is to gain practical experience and apply theoretical knowledge acquired from studying Applied Mathematics and Statistics throughout my university years. I will go into some details by talking about my journey.</p>
@@ -91,6 +91,9 @@ Challenges faced:
 </ul></p>
 <h1 align="left" id="W7">&#128188;ICOM:</h1>
 <p>Attending the ICOM (International Council of Museums) conference at Qatar's Museum of Art was a valuable experience, offering the chance to engage with global museum professionals and learn about the latest trends and innovations. I attended sessions on digital transformation and explored new museum practices, which were insightful. However, I was disappointed by some of the presentations, as their titles were misleading and led me to expect more in-depth discussions. Instead, the content often didn’t align with the expectations set by the titles, which was a letdown. Despite this, I still gained valuable knowledge and made meaningful connections with experts in the field.</p>
+
+<h1 align="left" id="W7">&#128376;Web Scraping:</h1>
+<p> </p>
 
 
 
