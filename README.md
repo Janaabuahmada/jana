@@ -55,9 +55,12 @@
  <li>	Drive strategic decisions</li>
 </ul>
 
-<b>Practical Challenges and Learning Outcomes</b>
+<b>Practical Challenges </b>
 
-Additionally, I learned some techniques to clean and prepare the text data using R. However, I faced some challenges as my laptop lagged when running certain functions, requiring me to restart R Studio every time to install each package. I couldn't use the desktop because I can't download R on it. Despite these difficulties, I've been:
+I learned some techniques to clean and prepare the text data using R. However, I faced some challenges as my laptop lagged when running certain functions, requiring me to restart R Studio every time to install each package. I couldn't use the desktop because I can't download R on it. Despite these difficulties, I've been:
+
+<b>Learning Outcomes</b>
+
 <ul>
 <li>	Connecting what I'm learning with my university studies</li>
 <li>	Finding immense satisfaction in deepening my understanding of text mining techniques</li>
