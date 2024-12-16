@@ -67,6 +67,8 @@ I learned some techniques to clean and prepare the text data using R. However, I
 <li>	Trying out an online tutorial about text mining spam and ham emails</li>
 </ul>
 </p>
+<b>How it might contibute to the team's work</b>
+
   
 This has been my first experience learning about machine learning methods, adding another layer of excitement to my internship experience.
 
