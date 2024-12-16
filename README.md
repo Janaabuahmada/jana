@@ -93,7 +93,7 @@ Challenges faced:
 <p>Attending the ICOM (International Council of Museums) conference at Qatar's Museum of Art was a valuable experience, offering the chance to engage with global museum professionals and learn about the latest trends and innovations. I attended sessions on digital transformation and explored new museum practices, which were insightful. However, I was disappointed by some of the presentations, as their titles were misleading and led me to expect more in-depth discussions. Instead, the content often didn’t align with the expectations set by the titles, which was a letdown. Despite this, I still gained valuable knowledge and made meaningful connections with experts in the field.</p>
 
 <h1 align="left" id="W7">&#128376;Web Scraping:</h1>
-<p> </p>
+<p> In my last week I learned more about web scraping using R, which I believe will be a game-changer for Sadia's work on translation memory for the museum's online collection. Web scraping allows us to automate the collection of large amounts of data from various online sources, eliminating the need for tedious manual extraction. Since translation memory relies on accurate and consistent data inputs, this method ensures that we can gather the necessary text efficiently and systematically. Additionally, it saves time, reduces errors, and frees up resources to focus on refining the translation process, making the overall workflow much more productive. </p>
 
 
 
