@@ -53,20 +53,20 @@
  <li> Understand visitor feedback</li>
  <li>	Improve overall experience</li>
  <li>	Drive strategic decisions</li>
-</ul>
+</ul></p>
 
-<b>Practical Challenges </b>
+<p><b>Practical Challenges </b>
 
-I learned some techniques to clean and prepare the text data using R. However, I faced some challenges as my laptop lagged when running certain functions, requiring me to restart R Studio every time to install each package. I couldn't use the desktop because I can't download R on it. Despite these difficulties, I've been:
+I learned some techniques to clean and prepare the text data using R. However, I faced some challenges as my laptop lagged when running certain functions, requiring me to restart R Studio every time to install each package. I couldn't use the desktop because I can't download R on it.</p>
 
-<b>Learning Outcomes</b>
+<p><b>Learning Outcomes</b>
 
 <ul>
 <li>	Connecting what I'm learning with my university studies</li>
 <li>	Finding immense satisfaction in deepening my understanding of text mining techniques</li>
 <li>	Trying out an online tutorial about text mining spam and ham emails</li>
-</ul>
-</p>
+</ul></p>
+
 <b>How it might contibute to the team's work</b>
 
   
