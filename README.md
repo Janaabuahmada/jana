@@ -68,9 +68,7 @@ This has been my first experience learning about machine learning methods, addin
 
 <h1 align="left" id="W4">&#128253;A Visit To Mathaf:A Wider Lens, A New Gérôme</h1>
 
-I joined the digital experience team on a visit to the Mathaf Museum for the Gérôme exhibition. The exhibit offered an impressive array of paintings and drawings by Gérôme. The exhibition presented Gérôme's life and work in a loosely chronological order. It started with his biography and influence, moved on to his artistic style and creativity, and concluded with the political discourse surrounding his work in the 20th century. The interactive displays and guided tour provided deep insights, allowing us to appreciate Gérôme's art from both historical and modern perspectives.
-
-We went inside as guests to test the audio guide from the perspective of visitors. The audio guide was incredibly helpful, enhancing our understanding and enjoyment of the exhibition by providing additional context and details about each piece. However, I encountered an issue with the Wi-Fi, which was weak inside the gallery. This affected the audio guide’s performance and could be an area for improvement. On the positive side, I appreciated that the audio continued to play even when I opened other apps on my phone, ensuring a seamless experience. Overall, this visit was both inspiring and informative, offering valuable insights that will inform our digital engagement projects.
+<p>I joined the digital experience team on a visit to Mathaf Museum's Gérôme exhibition, which displayed his paintings and drawings in a chronological order, covering his biography, artistic style, and political impact. We tested the audio guide as guests, which provided useful context for each piece and continued working when using other apps. However, weak Wi-Fi in the gallery affected its performance. The visit offered important insights for our digital engagement projects.
 </p>
 
 <h1 align="left" id="W5">&#128250;Ed Rodley Presentation: </h1>
