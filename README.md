@@ -31,7 +31,7 @@
 <ul>
   <li>	Creating a website using GitHub Pages, overcoming technical challenges with support from YouTube tutorials, AI tools, and a helpful colleague.</li>
 </ul>
-
+***
 <h1 align="Left" id="W2">&#128187;Online Collection's Text Analysis </h1>
 <p>During my second week at my Qatar Museums internship, I was assigned the task of counting and identifying unique words in an Excel sheet containing all the text from the museum's online collection website. As shown in the picture bellow, the highlighted words are repeatedin different locations in both languages Arabic and English.</p>
 <p align="center" ><img align="Center" alt="Processed Image" height="200" width="auto" src="https://i.ibb.co/M9Wx8JS/Screenshot-2024-11-12-085434.png"  ><img  align="Center" alt="Processed Image" height="200" width="auto" src="https://i.ibb.co/7N5KMJN/Screenshot-2024-11-12-093819.png"></p>
