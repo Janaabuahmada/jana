@@ -17,14 +17,14 @@
   <li>	A guided tour of the National Museum of Qatar, revealing fascinating insights into the country’s history and culture.</li>
   <li>	Observing visitor interactions with multimedia displays to understand engagement and reactions.</li>
 </ul>
-<p><b>Visitor Engagement and Feedback Collection:</b></p>
+<p><b>Visitor Engagement with the Multimedia:</b></p>
 <ul>
   <li>	Conducting surveys to gather opinions on multimedia used in exhibits.</li>
   <li>	Addressing challenges like survey fatigue by using conversational techniques to engage visitors effectively.</li>
 </ul>
 <p><b>Data Analysis and Visualization:</b></p>
 <ul>
-  <li>	Analyzing survey data from NMoQ and TOCW using Excel and Power BI.</li>
+  <li>	Analyzing survey quantitative data from NMoQ and TOCW using Excel.</li>
   <li>	Focusing on multimedia-related questions to derive actionable insights.</li>
 </ul>
 <p><b>Website Development:</b></p>
