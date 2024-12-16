@@ -41,7 +41,7 @@
   I    used  Visual  Studio  to  streamline  the  process. I  separated  each  word,  removed  capitalization, and  filtered  out  numbers,  enabling  me  to  identify  and  remove  duplicates  and  create  a  clean  list  of  unique  terms. Through  this  analysis,  I  discovered  that  almost 90%  of  the  words  were  recurrent,  suggesting  that  with  techniques  like  named  entity  recognition  (NER),  it  would  be  much  easier  for  the  translation  team  to  focus on  unique  or  context-specific  terms.    Later,  I joined  a  meeting  with the digital  experience  team  to  present  my  findings,  where  I  explained  the  technical  aspects  of  my  process  and  demonstrated  how  this  analysis  could  enhance  the  museum’s  online  content.    This  experience  gave  me  valuable  feedback  and  further  insight  into  how digital  transformation  can  improve  user  engagement  with  museum  collections.  I  am  now  curious  to  learn  how  I  can  use  NER  for  both  English  and  Arabic.</p>
 
 <h1 align="left" id="W3" >&#128203;Text Mining Journey </h1>
-<p>This week at my internship with Qatar Museums has been an exciting dive into the world of text mining. My supervisor, Christophe, handed me a book called Text Mining with R: A Tidy Approach, and I've been really into it ever since. Text mining is incredibly important for our digital transformation team because it helps us make sense of large volumes of unstructured text data by extracting meaningful patterns and insights. The process involves several key steps:</p>
+<p>This week at my internship with Qatar Museums has been an exciting dive into the world of text mining. My supervisor, Christophe, handed me a book called Text Mining with R: A Tidy Approach, and I've been really into it ever since. Text mining is incredibly important for our digital transformation team because it helps us make sense of large volumes of unstructured text data by extracting meaningful patterns and insights. The process involves several key steps:
 <ul>
  <li> Collecting text data</li>
  <li>	Cleaning and preprocessing it</li>
@@ -55,7 +55,7 @@
  <li>	Drive strategic decisions</li>
 </ul>
 
-<b>Practical Challenges and Learning</b>
+<b>Practical Challenges and Learning Outcomes</b>
 
 Additionally, I learned some techniques to clean and prepare the text data using R. However, I faced some challenges as my laptop lagged when running certain functions, requiring me to restart R Studio every time to install each package. I couldn't use the desktop because I can't download R on it. Despite these difficulties, I've been:
 <ul>
@@ -63,6 +63,7 @@ Additionally, I learned some techniques to clean and prepare the text data using
 <li>	Finding immense satisfaction in deepening my understanding of text mining techniques</li>
 <li>	Trying out an online tutorial about text mining spam and ham emails</li>
 </ul>
+</p>
   
 This has been my first experience learning about machine learning methods, adding another layer of excitement to my internship experience.
 
